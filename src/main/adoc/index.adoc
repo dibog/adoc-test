@@ -11,7 +11,7 @@ image:https://img.shields.io/badge/100%25-kotlin-blue.svg[link="https://kotlinla
 image:https://github.com/dibog/adoc-test/workflows/Set%20up%20JDK%201.8/badge.svg
 image:https://github.com/dibog/adoc-test/workflows/Build%20with%20Maven/badge.svg
 image:https://github.com/dibog/adoc-test/workflows/Deploy/badge.svg
-image:https://github.com/dibog/adoc-test/workflows/dostuff/badge.svg
+image:https://github.com/dibog/adoc-test/workflows/Java%20CI/badge.svg
 
 [discrete]
 == Introduction
