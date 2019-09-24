@@ -11,3 +11,11 @@ jobs:
           java-version: 1.8
       - name: Build with Maven
         run: mvn package --file pom.xml
+      - name: Deploy
+        if: success()
+        uses: crazy-max/ghaction-github-pages@master
+        with:
+          target_branch: gh-pages
+          build_dir: target/generated-docs
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
