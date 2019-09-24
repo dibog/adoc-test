@@ -1,6 +1,7 @@
 name: Java CI
 on: [push]
 jobs:
+  name: dostuff
   build:
     runs-on: ubuntu-latest
     steps:
