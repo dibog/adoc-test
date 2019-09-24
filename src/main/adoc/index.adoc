@@ -4,11 +4,10 @@ Dieter Bogdoll, <dibog@github.com>
 :icons: font
 
 image:https://img.shields.io/github/license/dibog/jdbc-doc-support[link="LICENSE"]
-image:https://api.travis-ci.org/dibog/jdbc-doc-support.svg?branch=master[link="https://travis-ci.org/dibog/jdbc-doc-support"]
+image:https://github.com/dibog/adoc-test/workflows/Java%20CI/badge.svg[link="https://github.com/dibog/adoc-test"]
 image:https://jitpack.io/v/dibog/jdbc-doc-support.svg[link="https://jitpack.io/#dibog/jdbc-doc-support"]
 image:https://img.shields.io/badge/100%25-kotlin-blue.svg[link="https://kotlinlang.org/"]
 
-image:https://github.com/dibog/adoc-test/workflows/Java%20CI/badge.svg[link="https://github.com/dibog/adoc-test"]
 
 [discrete]
 == Introduction
